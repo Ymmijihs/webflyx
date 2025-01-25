@@ -1,0 +1,60 @@
+[33mcommit 6ee25c352e0ff7277e4e4a3719ce0469c5de6550[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m)[m
+Author: Ymmijihs <shijimmy@gmail.com>
+Date:   Fri Jan 24 20:59:55 2025 +0100
+
+    J: interns are fun
+
+[33mcommit d3d5986d4816aafb8bf2c620a00f2003327bee44[m
+Author: Ymmijihs <shijimmy@gmail.com>
+Date:   Fri Jan 24 20:55:35 2025 +0100
+
+    I: second one
+
+[33mcommit 2b88ad07082f88d9997a2985909541bbb92a0c2e[m
+Author: Ymmijihs <shijimmy@gmail.com>
+Date:   Fri Jan 24 20:54:56 2025 +0100
+
+    H: first one
+
+[33mcommit 8b4b75d68853a1a8be8f8cf800381fcdd2e5ada7[m[33m ([m[1;32mmain[m[33m)[m
+Author: Ymmijihs <shijimmy@gmail.com>
+Date:   Thu Jan 23 19:19:03 2025 +0100
+
+    G: More Work
+
+[33mcommit 2ec6c6e53516f9527b09f19f06344ee8dca5fafc[m
+Merge: 6194454 3deea36
+Author: Ymmijihs <shijimmy@gmail.com>
+Date:   Thu Jan 23 19:12:07 2025 +0100
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 6194454b1be35dbb3c4846d01fcb01319082148b[m
+Author: Ymmijihs <shijimmy@gmail.com>
+Date:   Wed Jan 22 20:19:39 2025 +0100
+
+    E: furthering main
+
+[33mcommit 3deea36d2cae11fd299be28b2622e7d4a3f5ea1b[m
+Author: Ymmijihs <shijimmy@gmail.com>
+Date:   Tue Jan 21 18:48:40 2025 +0100
+
+    D: first of classics
+
+[33mcommit 44b75d9d21674d26315204423f843fd3c6402487[m
+Author: Ymmijihs <shijimmy@gmail.com>
+Date:   Fri Jan 17 20:23:30 2025 +0100
+
+    C: add quotes
+
+[33mcommit 542c0fd6b7d050b8b3cb99d3fe9b338cfc7330a0[m
+Author: Ymmijihs <shijimmy@gmail.com>
+Date:   Fri Jan 17 19:38:02 2025 +0100
+
+    B: That's done
+
+[33mcommit 5791167bce5a89a709629c94b281b6c761304b69[m
+Author: Ymmijihs <shijimmy@gmail.com>
+Date:   Fri Jan 17 19:20:51 2025 +0100
+
+    A: add contents.md
